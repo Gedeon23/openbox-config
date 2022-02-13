@@ -32,5 +32,4 @@ nitrogen --restore
 /home/gedeon/.local/bin/eww/eww --config /home/gedeon/.config/eww/bar open bar
 
 # Startup Apps
-bash /home/gedeon/startupApps.sh &
-
+bash /home/gedeon/.config/openbox/startupApps.sh &
